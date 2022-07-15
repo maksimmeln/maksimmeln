@@ -39,3 +39,166 @@
     </footer>
 </body>
 </html>
+<css>
+body {
+    font-family: sans-serif;
+    margin: 0%;
+}   
+header{
+    background-color:rgb(60, 196, 78);
+    padding: 5%;
+}
+header h1{
+    margin-top: 5%;
+    color: white;
+    margin-left: 20%;
+}
+.log{
+    position: absolute;
+    width: 15%;
+    left: 88px;
+    top: -50px;
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+.tete{
+    padding: 1%;
+    padding-right: 2%;
+    padding-left: 2%;
+    text-decoration: none;
+    background-color: turquoise;
+    border-radius: 400px;
+    color: black;
+    position: absolute;
+    margin-left: 82%;
+    margin-top: -7%;
+}
+nav {
+
+    border-top: 5px solid white;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 5px solid white;
+   
+}
+.tyty{
+    text-decoration: none;
+    color: white;
+}
+footer{
+    background-color: rgb(0, 100, 0);
+    color: white;
+    padding: 1%;
+}
+.dada{
+    color: yellow;
+    border-bottom: 20px solid yellow;
+    left: 2%;
+}
+.dade{
+    left: 20%;
+}
+.tyt{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    left: 12%;
+    top: 115%;
+    background-color: rgb(15, 160, 15);
+    padding: 1%;
+    
+}
+.fe{
+   color: white;
+   background-color: gray;
+   margin-left: 5%;
+   margin-right: 71%;
+   padding: 5%;
+   padding-bottom: 20%;
+
+}
+.ft{
+    position: absolute;
+    top: 55%;
+    left: 10%;
+
+}
+.fg{
+    color: white;
+    background-color: rgb(15, 160, 15);
+    text-decoration: none;
+    position: absolute;
+    left: 2%;
+    top: 147%;
+    padding:1%;
+}
+.rt{
+    color: white;
+    background-color: rgb(15, 160, 15);
+    text-decoration: none;
+    position: absolute;
+    left: 12%;
+    top: 75%;
+    padding:1%;
+}
+.fr{
+    position: absolute;
+    top: 97%;
+    left: 10%;
+}
+.ut{
+    position: absolute;
+    right: 140px;
+    top: 280px;
+}
+.fy{
+   position: absolute;
+   color: white;
+   background-color: gray;
+   margin-right: 5%;
+   margin-left: 71%;
+   padding: 5%;
+   padding-bottom: 20%;
+   left: -90px;
+   top: 38%;
+
+}
+.tilo{
+    color: white;
+    background-color: rgb(15, 160, 15);
+    text-decoration: none;
+    position: absolute;
+    right: 160px;
+    top: 365px;
+    padding:1%; 
+}
+.f{
+   position: absolute; 
+   color: white;
+   background-color: gray;
+   margin-left: 1%;
+   padding: 3%;
+   margin-right: 10%;
+   padding-bottom: 25%;
+   right: 35px;
+   top: 400px; 
+}
+.iop{
+    color: white;
+    background-color: rgb(15, 160, 15);
+    text-decoration: none;
+    position: absolute;
+    right: 160px;
+    top: 550px;
+    padding:1%; 
+}
+.iu{
+    position: absolute;
+    right: 140px;
+    top: 460px;
+}
+
+
+</css>
